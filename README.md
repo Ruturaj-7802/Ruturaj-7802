@@ -70,6 +70,7 @@ Tech: Python, CLI, Randomized Algorithms, File I/O, Automation <br>
 
 - 🌐 Portfolio: https://ruturajpatilportfolio.netlify.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/ruturaj-d-patil/
+- 🎓 HackerRank: https://www.hackerrank.com/profile/Ruturaj007
 - 💻 GitHub: https://github.com/Ruturaj-7802
 - 📧 Email: ruturaj-7802@gmail.com
 
