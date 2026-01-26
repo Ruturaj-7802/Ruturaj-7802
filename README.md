@@ -71,7 +71,7 @@ Tech: Python, CLI, Randomized Algorithms, File I/O, Automation <br>
 - 💼 LinkedIn: https://www.linkedin.com/in/ruturaj7802/
 - 🎓 HackerRank: https://www.hackerrank.com/profile/Ruturaj007
 - 💻 GitHub: https://github.com/Ruturaj-7802
-- 📧 Email: ruturaj-7802@gmail.com | ruturaj-dilippatil@gmail.com 
+- 📧 Email: ruturaj.7802@gmail.com | ruturaj.dilippatil@gmail.com 
 
 ---
 
