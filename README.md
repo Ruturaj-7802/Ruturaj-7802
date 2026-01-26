@@ -19,14 +19,14 @@ Software Engineer with experience building **scalable backend systems**, **data-
 ## 🛠️ Technical Skills
 
 ### Core Software Engineering
-- Python, C++, Golang, Java
+- Python, C++, Golang
 - Data Structures & Algorithms
 - Object-Oriented Design
 - System Design & Distributed Systems
 
 ### Backend & Infrastructure
 - Node.js, Flask, FastAPI
-- PostgrSQL, Redis
+- PostgrSQL, Redis, MongoDB
 - Apache Spark, Databricks, Azure Cloud
 - Apache Kafka, RabbitMQ
 - Docker, Kubernetes
