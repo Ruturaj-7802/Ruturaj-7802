@@ -1,7 +1,6 @@
 # Hi, I'm Ruturaj 👋
 
 Software Engineer with experience building **scalable backend systems**, **data-driven products**, and **reliable full-stack applications**.  
-Currently working as a **Data Engineer 2 at Accordion**.
 
 🔹 Strong fundamentals in **DSA, system design, and distributed systems**  
 🔹 Experience with **production-grade microservices and event-driven architectures**  
@@ -11,7 +10,7 @@ Currently working as a **Data Engineer 2 at Accordion**.
 
 ## 🧑‍💻 About Me
 
-- 💼 Data Engineer 2 @ **Accordion**
+- 💼 Data @ **Accordion**
 - 🎓 B.E. in Computer Engineering from **PICT, Pune** (CGPA: **9.14**)
 - 📍 Based in **Hyderabad, India**
 
@@ -69,10 +68,10 @@ Tech: Python, CLI, Randomized Algorithms, File I/O, Automation <br>
 ## 📫 Let’s Connect
 
 - 🌐 Portfolio: https://ruturajpatilportfolio.netlify.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/ruturaj-d-patil/
+- 💼 LinkedIn: https://www.linkedin.com/in/ruturaj7802/
 - 🎓 HackerRank: https://www.hackerrank.com/profile/Ruturaj007
 - 💻 GitHub: https://github.com/Ruturaj-7802
-- 📧 Email: ruturaj-7802@gmail.com
+- 📧 Email: ruturaj-7802@gmail.com | ruturaj-dilippatil@gmail.com 
 
 ---
 
