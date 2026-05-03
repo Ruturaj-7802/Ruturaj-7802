@@ -28,7 +28,6 @@ Software Engineer with experience building **scalable backend systems**, **data-
 - Node.js, Flask, FastAPI
 - PostgrSQL, Redis, MongoDB
 - Apache Spark, Databricks, Azure Cloud
-- Apache Kafka, RabbitMQ
 - Docker, Kubernetes
 - gRPC, REST APIs, Event-driven systems
 
