@@ -1,73 +1,67 @@
 # Hi, I'm Ruturaj 👋
 
-Software Engineer with experience building **scalable backend systems**, **data-driven products**, and **reliable full-stack applications**.  
+Backend Engineer focused on building **high-throughput, fault-tolerant systems** using Go and distributed systems principles.
 
-🔹 Strong fundamentals in **DSA, system design, and distributed systems**  
-🔹 Experience with **production-grade microservices and event-driven architectures**  
-🔹 Passionate about building systems that reduce toil and improve developer productivity  
+- 🚀 Built systems handling **300M+ records/day** in production environments  
+- ⚡ Designed API gateway handling **4200 req/sec** with circuit breaker & load balancing  
+- 🧠 Strong in **system design, concurrency, and backend infrastructure**
+
+---
+
+## 🔍 What I'm Currently Working On
+
+- Building **Taskflow** — a backend task management system (Go + Postgres + Docker)  
+- Exploring **system design patterns**: rate limiting, caching, and service resilience  
+- Improving **production readiness**: observability, fault tolerance, and scalability  
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💼 Data @ **Accordion**
-- 🎓 B.E. in Computer Engineering from **PICT, Pune** (CGPA: **9.14**)
-- 📍 Based in **Hyderabad, India**
+- 💼 Data Engineer @ **Accordion** (Backend & distributed systems focus)
+- 🎓 B.E. in Computer Engineering, **PICT Pune** (CGPA: 9.14)
+- 📍 Hyderabad, India
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Core Software Engineering
-- Python, Go (Golang)
-- Data Structures & Algorithms, Object-Oriented Design, System Design & Distributed Systems
-
-### Backend & Infrastructure
-- Go, FastAPI
-- PostgreSQL, Docker
-- gRPC, REST APIs, Event-driven systems
+**Languages:** Go, Python  
+**Backend:** REST APIs, gRPC, FastAPI, concurrency patterns  
+**Infra & Data:** PostgreSQL, Redis, Docker, event-driven systems  
+**Core:** Distributed Systems, System Design, DSA  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects
 
-### 🔹 Request Gateway with Circuit Breaker
+- **Request Gateway (Go)**  
+  High-throughput API gateway with circuit breaker and load balancing  
+  → 4200 req/sec | P99 ≤ 186 ms  
+  🔗 https://github.com/Ruturaj-7802/Request_Gateway_with_Circuit_Breaker_Go  
 
-High-throughput API gateway with load balancing and fault tolerance for concurrent systems. <br>
-Tech: Go, Concurrency, Distributed Systems, Fault Tolerance, HTTP <br>
-💻 [Code](https://github.com/Ruturaj-7802/Request_Gateway_with_Circuit_Breaker_Go)
+- **Store Intelligence Agent**  
+  Multi-modal AI system for retail analytics (vision + LLMs)  
+  → 2GB+ data processed | YOLOv8 (~92% accuracy)  
+  🔗 https://github.com/Ruturaj-7802/Store-Intelligence-Agent  
 
-### 🔹 Store Intelligence Agent
-
-Multi-modal AI platform for retail analytics combining LLMs, vision, and structured data. <br>
-Tech: Python, LangChain, OpenAI API, YOLOv8, FAISS, SQL <br>
-💻 [Code](https://github.com/Ruturaj-7802/Store-Intelligence-Agent)
-
-
-### 🔹 CLI Testcase Generator
-
-Developer productivity tool for generating large-scale randomized testcases for competitive programming and system testing. <br>
-Tech: Python, CLI, Randomized Algorithms, File I/O, Automation <br>
-💻 [Code](https://github.com/Ruturaj-7802/CLI_TestCase_Generator)
+- **Taskflow (WIP)**  
+  Backend task management system with Go, Postgres, and Docker  
+  🔗 https://github.com/Ruturaj-7802/taskflow  
 
 ---
 
-## 🏆 Honors & Achievements
+## 🏆 Achievements
 
-- 🥇 Top 5 — **Agentic AI Hackathon - Accordion**
-- 🌍 **Global Quater Finals - Meta Hackercup 2023**
-- 🛠️ **![National Coding Contest]([https://www.codechef.com/CLWD2023])** - Organizer and problem setter, a global competition with 5000+ participants
-
----
-
-## 📫 Let’s Connect
-
-- 🌐 Portfolio: https://ruturajpatilportfolio.netlify.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/ruturaj7802/
-- 🎓 HackerRank: https://www.hackerrank.com/profile/Ruturaj007
-- 💻 GitHub: https://github.com/Ruturaj-7802
-- 📧 Email: ruturaj.7802@gmail.com | ruturaj.dilippatil@gmail.com 
+- 🥇 Top 5 — Agentic AI Hackathon (Accordion)  
+- 🌍 Meta HackerCup 2023 — Global Quarterfinalist  
+- 🛠️ Organizer & problem setter — National Coding Contest (5000+ participants)
 
 ---
 
-⭐️ *Always open to discussing software engineering roles, system design, and impactful projects.*
+## 📫 Connect
+
+- 🌐 Portfolio: https://ruturajpatilportfolio.netlify.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/ruturaj7802/  
+- 💻 GitHub: https://github.com/Ruturaj-7802  
+- 📧 Email: ruturaj.7802@gmail.com  
