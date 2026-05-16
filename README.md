@@ -24,9 +24,8 @@ Software Engineer with experience building **scalable backend systems**, **data-
 
 ### Backend & Infrastructure
 - Go, FastAPI
-- PostgrSQL, Docker
+- PostgreSQL, Docker
 - gRPC, REST APIs, Event-driven systems
-- Apache Spark, Databricks, Azure Cloud
 
 ---
 
