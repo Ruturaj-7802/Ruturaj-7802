@@ -19,17 +19,14 @@ Software Engineer with experience building **scalable backend systems**, **data-
 ## 🛠️ Technical Skills
 
 ### Core Software Engineering
-- Python, C++, Golang
-- Data Structures & Algorithms
-- Object-Oriented Design
-- System Design & Distributed Systems
+- Python, Go (Golang)
+- Data Structures & Algorithms, Object-Oriented Design, System Design & Distributed Systems
 
 ### Backend & Infrastructure
-- Node.js, Flask, FastAPI
-- PostgrSQL, Redis, MongoDB
-- Apache Spark, Databricks, Azure Cloud
-- Docker, Kubernetes
+- Go, FastAPI
+- PostgrSQL, Docker
 - gRPC, REST APIs, Event-driven systems
+- Apache Spark, Databricks, Azure Cloud
 
 ---
 
@@ -59,7 +56,7 @@ Tech: Python, CLI, Randomized Algorithms, File I/O, Automation <br>
 ## 🏆 Honors & Achievements
 
 - 🥇 Top 5 — **Agentic AI Hackathon - Accordion**
-- 🌍 **Quater Finals - Meta Hackercup 2023**
+- 🌍 **Global Quater Finals - Meta Hackercup 2023**
 - 🛠️ **![National Coding Contest]([https://www.codechef.com/CLWD2023])** - Organizer and problem setter, a global competition with 5000+ participants
 
 ---
